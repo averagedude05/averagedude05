@@ -67,8 +67,8 @@ CSE undergraduate at **American International University-Bangladesh (AIUB)**, ma
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adibkhan642&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibkhan642&layout=compact&hide_border=true&theme=transparent" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=averagedude05&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=averagedude05&layout=compact&hide_border=true&theme=transparent" alt="Top Languages"/>
 </p>
 
 <p align="center">
