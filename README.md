@@ -78,11 +78,10 @@ CSE undergraduate at **American International University-Bangladesh (AIUB)**, ma
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=averagedude05&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adibkhan642&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=averagedude05&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
