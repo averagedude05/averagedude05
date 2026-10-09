@@ -75,14 +75,7 @@ CSE undergraduate at **American International University-Bangladesh (AIUB)**, ma
   <img src="https://streak-stats.demolab.com?user=averagedude05&hide_border=true&theme=transparent" alt="GitHub Contribution Streak"/>
 </p>
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=averagedude05&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
-    alt="GitHub Trophies"
-  />
-</p>
 
 ---
 
