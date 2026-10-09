@@ -72,7 +72,7 @@ CSE undergraduate at **American International University-Bangladesh (AIUB)**, ma
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=adibkhan642&hide_border=true&theme=transparent" alt="GitHub Contribution Streak"/>
+  <img src="https://streak-stats.demolab.com?user=averagedude05&hide_border=true&theme=transparent" alt="GitHub Contribution Streak"/>
 </p>
 
 ## 🏆 GitHub Trophies
